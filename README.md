@@ -1,5 +1,9 @@
 # Handwritten digits recognition
-Projet scolaire 
+Projet scolaire - Deep Learning - 2023
+
+
+##  ressource
+Neural Networks and Deep Learning - [Michael Nielsen](https://neuralnetworksanddeeplearning.com/chap1.html) 
 
 ## Members
 
